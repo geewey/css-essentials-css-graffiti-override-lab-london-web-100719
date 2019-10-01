@@ -12,7 +12,7 @@ body #wall #tag-2 {
 }
 
 div#wall #tag-3.slick {
-  background: url(../images/tag-3.png) no-repeat;
+  background: url(../images/tag-3.png) repeat;
   z-index: 5;
   display: block;
 }
